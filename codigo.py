@@ -2,6 +2,7 @@ import pandas as pd
 import matplotlib.pyplot as plt
 
 # Cargar datos desde URLs de GitHub
+# Las URLs de las tiendas contienen datos de ventas, categorías y reseñas
 urls = [
     "https://raw.githubusercontent.com/alura-es-cursos/challenge1-data-science-latam/refs/heads/main/base-de-datos-challenge1-latam/tienda_1%20.csv",
     "https://raw.githubusercontent.com/alura-es-cursos/challenge1-data-science-latam/refs/heads/main/base-de-datos-challenge1-latam/tienda_2.csv",
